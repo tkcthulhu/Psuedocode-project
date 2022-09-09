@@ -18,7 +18,7 @@
 > 
 >> a) if acoustic assume peg bridge and 3x3 headstock and jump to "Remove old strings"
 >> 
->> b) else if electric continue with current steps
+>> b) else if electric continue with next step
 >> 
 > ii. Is the headstock inline 6 or 3x3?
 > 
